@@ -1,0 +1,20 @@
+.products h3
+{
+    color: rgb(131, 55, 55);
+    text-align: center;
+    background-color:black;
+    color: aqua;
+    text-decoration: none;
+    border-radius: 20px;
+    
+}
+.products h2
+{
+    text-align: center;
+    color: black;
+}
+.products a
+{
+    text-decoration: none;
+}
+

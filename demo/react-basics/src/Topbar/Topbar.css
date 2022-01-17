@@ -1,0 +1,27 @@
+
+.topbar ul
+{
+    display: inline-flex;
+    list-style: none;
+    background-color:white;
+    height: 50px;
+    width: 100%;
+    
+}
+.topbar h1
+{
+    background-color: black;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+}
+.topbar li
+{
+    text-align: center;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
